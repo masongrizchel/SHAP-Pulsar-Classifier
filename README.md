@@ -21,3 +21,9 @@ Link: https://archive.ics.uci.edu/ml/datasets/HTRU2
 
 ### Usage
 Simply run the Jupyter Notebook (.ipynb) or the Python script (.py) in your environment. The script will automatically download the data, train the model, and generate the SHAP visualizations.
+
+Added major revisions with the workflow.
+
+Noted some challenges.
+
+Here are some of the examples ....
