@@ -3,7 +3,7 @@
 This repository contains a Python script that trains a machine learning model to classify pulsar star candidates and uses the SHAP library to make the model's predictions interpretable.
 
 ### Description
-The goal of this project is to build a reliable classifier for identifying pulsars from the HTRU2 dataset. While achieving high accuracy is important, understanding why a model makes a certain prediction is crucial for scientific applications. This script demonstrates how to train a RandomForestClassifier and then apply SHAP (SHapley Additive exPlanations) to explain its internal logic, turning a "black box" model into a transparent one.
+The goal of this project is to build a reliable classifier for identifying pulsars from the HTRU2 dataset. While achieving high accuracy is essential, understanding why a model makes a specific prediction is crucial for scientific applications. This script demonstrates how to train a Random Forest Classifier and then apply SHAP (SHapley Additive exPlanations) to explain its internal logic, turning a "black box" model into a transparent one.
 
 ### Key Features
 1. Data Handling: Loads and prepares the HTRU2 dataset directly from the UCI repository.
