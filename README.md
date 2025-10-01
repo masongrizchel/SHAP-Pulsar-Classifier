@@ -14,7 +14,10 @@ The goal of this project is to build a reliable classifier for identifying pulsa
 6. Bar Plot: A simplified view of the mean absolute impact of each feature.
 7. Waterfall Plot: To break down the prediction for a single, specific candidate.
 
-Dataset
+### Dataset
 This project uses the HTRU2 Dataset from the UCI Machine Learning Repository. The script loads the data directly from the source.
 
 Link: https://archive.ics.uci.edu/ml/datasets/HTRU2
+
+### Usage
+Simply run the Jupyter Notebook (.ipynb) or the Python script (.py) in your environment. The script will automatically download the data, train the model, and generate the SHAP visualizations.
