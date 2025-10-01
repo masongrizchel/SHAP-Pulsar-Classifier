@@ -25,5 +25,3 @@ Simply run the Jupyter Notebook (.ipynb) or the Python script (.py) in your envi
 Added major revisions with the workflow.
 
 Noted some challenges.
-
-Here are some of the examples ....
